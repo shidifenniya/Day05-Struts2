@@ -68,7 +68,8 @@ public class StaffAction extends ActionSupport {
 
     }
 
-    /* 根据部门 id 查找职务集合 */
+    /* 根据部门 id 查找职务集合
+    * 分支测试*/
     public String findPostsByPid() throws IOException {
 
         ServletActionContext.getResponse().setContentType("application/json;charset=utf-8");
