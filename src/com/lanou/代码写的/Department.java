@@ -1,4 +1,4 @@
-package com.lanou.domain;
+package com.lanou.代码写的;
 
 import java.util.List;
 
