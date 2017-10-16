@@ -1,4 +1,4 @@
-package com.lanou.domain;
+package com.lanou.代码写的;
 
 /**
  * Created by dllo on 17/10/16.

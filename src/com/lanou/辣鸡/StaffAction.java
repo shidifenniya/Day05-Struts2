@@ -1,8 +1,8 @@
-package com.lanou.action;
+package com.lanou.辣鸡;
 
 
-import com.lanou.domain.Department;
-import com.lanou.domain.Post;
+import com.lanou.代码写的.Department;
+import com.lanou.代码写的.Post;
 import com.opensymphony.xwork2.ActionSupport;
 import net.sf.json.JSONArray;
 import net.sf.json.JsonConfig;
@@ -12,11 +12,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dllo on 17/10/16.
- */
 public class StaffAction extends ActionSupport {
 
+    //    代码写的真垃圾
     private List<Department> departList; // 存储所有部门的集合
 
     private String departId; //发起部门id查询时传递过来的部门id
